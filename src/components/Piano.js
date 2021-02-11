@@ -11,9 +11,10 @@ export default class Piano extends Component {
           return (
             <Key 
             note={note} 
-            key={index}/>
+            key={index}
+             />
           )})
-        }
+        }      
         </div>
     )
   }

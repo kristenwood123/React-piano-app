@@ -3,20 +3,6 @@
   justify-content: center;
 }
 
-.key {
-  background-image: linear-gradient(rgb(104, 238, 207), rgb(17, 217, 243));
-  height: 300px;
-  width: 60px;
-  border: 1px solid black;
-  cursor: pointer;
-}
-
-.key__text {
-  position: relative;
-  color: black;
-  font-size: 36px;
-  margin-top: 240px;
-}
 
 .key.flat {
   position: relative;
